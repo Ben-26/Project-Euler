@@ -1,0 +1,11 @@
+﻿  Main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 17\Main.cpp(24,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 17\Main.cpp(26,20): warning C4244: 'argument': conversion from 'double' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\benlm\Documents\C++\Project Euler\Problem 17\Main.cpp(27,20): warning C4244: '-=': conversion from 'double' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 17\Main.cpp(98): warning C4715: 'index': not all control paths return a value
+C:\Users\benlm\Documents\C++\Project Euler\Problem 17\Main.cpp(71): warning C4715: 'f': not all control paths return a value
+  Problem 17.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 17\x64\Debug\Problem 17.exe

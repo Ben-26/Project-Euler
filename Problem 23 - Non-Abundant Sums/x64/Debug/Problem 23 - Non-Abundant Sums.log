@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 23 - Non-Abundant Sums\Main.cpp(63,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 23 - Non-Abundant Sums\Main.cpp(68,18): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 23 - Non-Abundant Sums\Main.cpp(85,8): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem 23 - Non-Abundant Sums.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 23 - Non-Abundant Sums\x64\Debug\Problem 23 - Non-Abundant Sums.exe

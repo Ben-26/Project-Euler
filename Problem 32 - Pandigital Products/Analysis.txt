@@ -1,0 +1,9 @@
+Restrictions:
+9 digits total
+1 digit * 4 digit = 4 digit assuming the primary digit's product does not exceed 10
+2 digit * 3 digit = 4 digit assuming the primary digit's product does not exceed 10
+
+primary digits ranges: [2, 4]
+Primary digit cannot be 1 as 1 * x = x
+Primary digit cannot be greater than 5 as 2 * the primary digit must be below 10 
+

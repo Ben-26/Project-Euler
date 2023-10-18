@@ -1,0 +1,3 @@
+﻿  Main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 67 - Maximum Path Sum II\Main.cpp(19,12): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  Problem 67 - Maximum Path Sum II.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 67 - Maximum Path Sum II\x64\Debug\Problem 67 - Maximum Path Sum II.exe

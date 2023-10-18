@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 20 - Factorial Digit Sum\Main.cpp(11,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 20 - Factorial Digit Sum\Main.cpp(40,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Problem 20 - Factorial Digit Sum.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 20 - Factorial Digit Sum\x64\Debug\Problem 20 - Factorial Digit Sum.exe

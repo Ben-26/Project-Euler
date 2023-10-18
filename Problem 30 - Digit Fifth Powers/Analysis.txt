@@ -1,0 +1,44 @@
+
+n			n^5
+0^5			0
+1^5			1
+2^5			32
+3^5			243
+4^5			1024
+5^5			3125
+6^5			7776
+7^5			16807
+8^5			32768
+9^5			59049
+
+
+Digits:				2				
+Cannot contain:		3, 4, 5, 6, 7, 8, 9
+	If it contains a 2 the value must be above 32, hence no such numbers can be created
+
+Digits:				3		
+Cannot contain:		4, 5, 6, 7, 8, 9
+	If it contains a 3 the value must be above 243,
+	Numbers 300, 301, 302, 310, 311, 312, 320, 321 and 322 can be created
+	1^5 + 3^5 ends in 5,					not constructible
+	1^5 + 2^5 + 3^5 ends in 6,				not constructible
+	2^5 + 3^5 ends in 5 or 7,				not constructible
+	
+Digits:				4
+Cannot contain:		6, 7, 8, 9
+	If the sum contains 6 then the number must be greated than 6^5 which requires 7
+	Hence the number cannot contain 6. 
+	A 4 digit number must contain 4 or 5 
+	If the number contains 4 and 5 the 4 must be the leading digit ->				45XY, 4X5Y or 4XY5
+	If the number contains two 4's and 5 the 5 must be the leading digit ->			544X, 54X4 or 5X44
+	additionally the end digit of 5^6 + 2(4^5) is 4
+
+				X		Digits			Sum			Digits ? Sum
+	544X		3		5443			5416			>
+	54X4		3		5434			5416			>
+				2		5425			5205			>
+	5X44		0		5044			5173			<
+				1		5144			5174			<
+				2		5244			5205			>
+				3		5344			5416			<
+	Therefore no numbers contain a 5 and two 4's
