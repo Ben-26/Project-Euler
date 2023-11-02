@@ -1,0 +1,5 @@
+﻿  Main.cpp
+Main.obj : error LNK2019: unresolved external symbol "void __cdecl permutations(unsigned int,class std::vector<int,class std::allocator<int> >)" (?permutations@@YAXIV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function main
+    Hint on symbols that are defined and could potentially match:
+      "void __cdecl permutations(int,class std::vector<int,class std::allocator<int> >)" (?permutations@@YAXHV?$vector@HV?$allocator@H@std@@@std@@@Z)
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\x64\Debug\Problem 32 - Pandigital Products.exe : fatal error LNK1120: 1 unresolved externals

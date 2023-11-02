@@ -1,5 +1,0 @@
-﻿  Main.cpp
-C:\Users\benlm\Documents\C++\Project Euler\Problem 24 - Lexicographic Permutations\Main.cpp(13,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\benlm\Documents\C++\Project Euler\Problem 24 - Lexicographic Permutations\Main.cpp(15,24): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\benlm\Documents\C++\Project Euler\Problem 24 - Lexicographic Permutations\Main.cpp(16,16): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
-  Problem 24 - Lexicographic Permutations.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 24 - Lexicographic Permutations\x64\Debug\Problem 24 - Lexicographic Permutations.exe

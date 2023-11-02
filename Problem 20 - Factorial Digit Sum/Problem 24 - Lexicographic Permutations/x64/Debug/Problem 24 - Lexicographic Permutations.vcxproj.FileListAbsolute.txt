@@ -1,1 +1,0 @@
-C:\Users\benlm\Documents\C++\Project Euler\Problem 24 - Lexicographic Permutations\x64\Debug\Problem 24 - Lexicographic Permutations.exe
