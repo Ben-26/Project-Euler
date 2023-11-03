@@ -7,13 +7,13 @@ unsigned int factorial(unsigned int x); // Returns x!
 int main() {
 	std::vector<int> digits = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 	
-	std::vector<int> test = { 1, 2, 3 };
-	std::vector < std::vector<int>> temp = pAlg({ {} }, test);
+	std::vector<int> test = { 1, 2, 3};//test
+	std::vector <std::vector<int>> temp = pAlg({ {} }, test);//test
 	for (int i = 0; i < temp.size(); i++) {
 		for (int j = 0; j < temp.at(i).size(); j++) {
 			std::cout << temp.at(i).at(j) << " ";
 		}
-		std::cout << "\n";
+		//std::cout << "\n";
 	}
 
 	return 0;
@@ -32,22 +32,36 @@ std::vector<std::vector<int>> pAlg(std::vector<std::vector<int>> A, std::vector<
 	}
 	else {
 		int Z = B.at(elements - 1); // element to move into the new sets
+		std::cout << "Z = " << Z << "\n"; // test
 		std::vector < std::vector<int>> pSet; // set of new permutations 
 
 		// creating the new sets
-		for (unsigned int i = 0; i < factorial(X + 1) - 1; i++) {
+		std::cout << "i < " << factorial(X + 1) << "\n"; // test
+		for (unsigned int i = 0; i < factorial(X + 1); i++) {//New sets
+			//std::cout << "New set number: " << i << "\n";
 			std::vector<int> subset; // will be filled to a size of n+1 
-			for (unsigned int j = 0; j < X; j++) { // Selects current set from A
-				
-			}
-
-			unsigned int j = 0;
-			while (j < X + 1) {
-				if (i % (X + 1) == j) {
-
+			for (unsigned int j = 0; j < X; j++) {// Current sets in X to be used
+				//std::cout << "Taking set: " << j << " in A\n";
+				unsigned int k = 0;
+				bool inserted = false;
+				while(k < Y){
+					if (i % 3 == k && !inserted) {
+						subset.push_back(Z);
+						std::cout << "Inserting" << Z; // test
+						inserted = true;
+					}
+					else {
+						subset.push_back(A.at(j).at(k));
+						std::cout << "Inserting " << A.at(j).at(k) << "\n"; // test
+						k++;
+					}
 				}
-				j++;
+				for (int temp = 0; temp < subset.size(); temp++) {//test
+					std::cout << subset.at(temp);
+				}
+				//std::cout << "\n";//test
 			}
+			pSet.push_back(subset);
 		}
 
 		/*

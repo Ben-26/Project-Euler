@@ -1,6 +1,7 @@
 ﻿  Main.cpp
-C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(27,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
-C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(41,13): warning C4018: '<': signed/unsigned mismatch
-  Problem 32 - Pandigital Products.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\x64\Debug\Problem 32 - Pandigital Products.exe
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\Main.cpp(27,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\Main.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\Main.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\Main.cpp(43,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\Main.cpp(47,13): warning C4018: '<': signed/unsigned mismatch
+  Problem 32 - Pandigital Products.vcxproj -> C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\x64\Debug\Problem 32 - Pandigital Products.exe
