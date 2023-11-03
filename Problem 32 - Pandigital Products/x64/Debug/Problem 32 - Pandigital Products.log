@@ -1,5 +1,6 @@
 ﻿  Main.cpp
-Main.obj : error LNK2019: unresolved external symbol "void __cdecl permutations(unsigned int,class std::vector<int,class std::allocator<int> >)" (?permutations@@YAXIV?$vector@HV?$allocator@H@std@@@std@@@Z) referenced in function main
-    Hint on symbols that are defined and could potentially match:
-      "void __cdecl permutations(int,class std::vector<int,class std::allocator<int> >)" (?permutations@@YAXHV?$vector@HV?$allocator@H@std@@@std@@@Z)
-C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 32 - Pandigital Products\x64\Debug\Problem 32 - Pandigital Products.exe : fatal error LNK1120: 1 unresolved externals
+C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(27,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(28,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(29,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\Main.cpp(41,13): warning C4018: '<': signed/unsigned mismatch
+  Problem 32 - Pandigital Products.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 32 - Pandigital Products\x64\Debug\Problem 32 - Pandigital Products.exe

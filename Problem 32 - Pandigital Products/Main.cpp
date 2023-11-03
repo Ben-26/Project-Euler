@@ -1,72 +1,92 @@
 #include <iostream>
 #include <vector>
 
+std::vector<std::vector<int>> pAlg(std::vector<std::vector<int>> A, std::vector<int> B); // Permutations algorithm - See Analysis.txt
+unsigned int factorial(unsigned int x); // Returns x!
+
 int main() {
 	std::vector<int> digits = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
+	
+	std::vector<int> test = { 1, 2, 3 };
+	std::vector < std::vector<int>> temp = pAlg({ {} }, test);
+	for (int i = 0; i < temp.size(); i++) {
+		for (int j = 0; j < temp.at(i).size(); j++) {
+			std::cout << temp.at(i).at(j) << " ";
+		}
+		std::cout << "\n";
+	}
 
 	return 0;
 }
-// assign each variable to either multiplicand, multiplier or product set
-// {a} x {b} = {c} with {a} and {b} being assigned and c being the remainder
-// permutate each set and compute equivalence
-// cache product 
 
+unsigned int factorial(unsigned int x) {
+	return x > 1 ? x * factorial(x - 1) : (x == 0 or x == 1 ? 1 : 0);
+}
+
+std::vector<std::vector<int>> pAlg(std::vector<std::vector<int>> A, std::vector<int> B) {
+	int X = A.size(); // Number of subsets in A
+	int Y = A.at(0).size(); // Size of the subsets in A
+	int elements = B.size(); // Number of elements in B
+	if (elements == 0) {
+		return A;
+	}
+	else {
+		int Z = B.at(elements - 1); // element to move into the new sets
+		std::vector < std::vector<int>> pSet; // set of new permutations 
+
+		// creating the new sets
+		for (unsigned int i = 0; i < factorial(X + 1) - 1; i++) {
+			std::vector<int> subset; // will be filled to a size of n+1 
+			for (unsigned int j = 0; j < X; j++) { // Selects current set from A
+				
+			}
+
+			unsigned int j = 0;
+			while (j < X + 1) {
+				if (i % (X + 1) == j) {
+
+				}
+				j++;
+			}
+		}
+
+		/*
+		for N = 2
+		example sets {1, 2} and {2, 1} with k = 3
+		i = 0, 1, 2, 3, 4, 5
+		i % 3 = 0, 1, 2, 0, 1, 2
+		take elements 0, 1 from {1, 2} then
+		place element at = i % 3 
+		j = iterate through subset
+		*/
+		B.pop_back();
+		return pAlg(pSet, B);
+	}
+}
 /*
-In {{{}}, {1, 2, ... , n}}
-Return {{{1}}, {2, ... , n}}
+Generalising
 
-In {{1}, {2, ... , n}}
-Return {{{1, 2}, {2, 1}}, {3 , ... , n}}
+permutations In {A := {{...}, {...}} , B := {... , n - 1, n}} A is the permutated subsets, B is elements left to permutate
+K := Size of A ( number of sets it contains )
+N := n - K / size of B <- More general
+If N = 0 
+	return A
+Else 
+	take B_0 from B <- This is the next element that will be "added" to the permutations
+	i in 0 to K-1 <- i is for sets 
+	j in 0 to (K+1)! - 1 is for the position in the set A_i where the element B_0 should be placed
+	i and j wrong way round **********
+	i = j = 0
+	while i < K - 1
+		create new empty set
+		if j mod (K+1) = 0 incrimiment i
+		if i = j, empty set push back B_0
+		else empty set push back A_0_j // check index
+	remove the element B_0 that was "added"
+	return permutations {{new permutations sets}, B \ B_0}
 
-In {{{1, 2}, {2, 1}}, {3 , ... , n}} 
-Return {{{1, 2, 3}, ... , {2, 1, 3}}, {4 , ... , n}}
-
-... 
-
-In {{{1, ... , n} , ... , {n , ... , 1}}, {{}}}
-
------------------------------------------------------------------------------
-Pseudocode:
-In {A := {{}}, B:= {1, 2, ... , n}}
-K := A.size
-N := B.size 
-
-for(i = 0 to (K - 1)!)
-	# want to iterate over every set in A
-	for(j = 0 to N
-	need inverse factorial as we are given a set of k items s.t. n! = k, need to then iterate over each set k n times
-
-	A.at(i).at(j)
-
-Notes:
-num subsets in A = (n - k)!
-when taking B[0] could order the list backwards and pop back 
-order doesnt matter so could just pop as normal 
-
-Worked example
-
-for {{}} {1, ... , n}
-K := 1
-N := n
-for i = 0 ; i < (K-1)!
-	take B[0] 
-	for j = 0 to K
-		return set += {1}
-	end for
-
-iterator for set in A and item from B
-Example																Generalising
-IN {{{1, 2}, {2, 1}}, {3, 4, ... , n}}								In {A := {{...}, {...}} , B := {... , n - 1, n}} A is the permutated subsets, B is elements left to permutate
-K := 2																K := Size of A ( number of sets it contains ) 
-N := n - 2															N := n - K / size of B <- More general 
-take 3 from {3, 4, ... , n}}										take B_0 from B <- This is the next element that will be "added" to the permutations
-i E {0, 1}															i in 0 to K-1 <- i is for sets 
-need to insert 3 in (K+1)! places									j in 0 to (K+1)! - 1 is for the position in the set A_i where the element B_0 should be placed 
-0 1 2 in {}i = 0													i = j = 0
-0 1 2 in {}i = 1													while i < K - 1
-																		create new empty set
-j mod 3 with j E {0, ..., 5}											if j mod (K+1) = 0 incrimiment i
-remove B_0 from B														if i = j, empty set push back B_0
-																		else empty set push back A_0_j
-Return {{{1, 2, 3}, {1, 3, 2,}, ...} , {4, 5, ... , n}}
+	// remake iterator 
+		// i is index over the sets i E {1, ... , k}
+		// j is index over each subset j E {1, ... , A.at0
 */
+
