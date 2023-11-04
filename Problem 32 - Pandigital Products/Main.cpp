@@ -1,21 +1,23 @@
 #include <iostream>
 #include <vector>
 
-std::vector<std::vector<int>> pAlg(std::vector<std::vector<int>> A, std::vector<int> B); // Permutations algorithm - See Analysis.txt
+std::vector <std::vector<int>> pAlg(std::vector <std::vector<int>> S);// Permutations algorithm - See Analysis.txt
 unsigned int factorial(unsigned int x); // Returns x!
+
 
 int main() {
 	std::vector<int> digits = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
-	
-	std::vector<int> test = { 1, 2, 3};//test
-	std::vector <std::vector<int>> temp = pAlg({ {} }, test);//test
+
+
+	std::vector <std::vector<int>> temp = pAlg({ {}, {1, 2, 3, 4} });//test
+	std::cout << "\n" << std::endl;
 	for (int i = 0; i < temp.size(); i++) {
 		for (int j = 0; j < temp.at(i).size(); j++) {
 			std::cout << temp.at(i).at(j) << " ";
 		}
-		//std::cout << "\n";
+		std::cout << "\n";
 	}
-
+	
 	return 0;
 }
 
@@ -23,84 +25,47 @@ unsigned int factorial(unsigned int x) {
 	return x > 1 ? x * factorial(x - 1) : (x == 0 or x == 1 ? 1 : 0);
 }
 
-std::vector<std::vector<int>> pAlg(std::vector<std::vector<int>> A, std::vector<int> B) {
-	int X = A.size(); // Number of subsets in A
-	int Y = A.at(0).size(); // Size of the subsets in A
-	int elements = B.size(); // Number of elements in B
-	if (elements == 0) {
-		return A;
+std::vector <std::vector<int>> pAlg(std::vector <std::vector<int>> S) {
+	int N = S.at(0).size();
+	if (S.at(S.size() - 1).size() == 0) {
+		S.pop_back();
+		return S;
 	}
 	else {
-		int Z = B.at(elements - 1); // element to move into the new sets
-		std::cout << "Z = " << Z << "\n"; // test
-		std::vector < std::vector<int>> pSet; // set of new permutations 
+		int X = S.at(S.size() - 1).at(S.at(S.size() - 1).size() - 1); // Gets the last element of the last vector
+		S.at(S.size() - 1).pop_back();
+		std::vector<std::vector<int>> pSet;
 
-		// creating the new sets
-		std::cout << "i < " << factorial(X + 1) << "\n"; // test
-		for (unsigned int i = 0; i < factorial(X + 1); i++) {//New sets
-			//std::cout << "New set number: " << i << "\n";
-			std::vector<int> subset; // will be filled to a size of n+1 
-			for (unsigned int j = 0; j < X; j++) {// Current sets in X to be used
-				//std::cout << "Taking set: " << j << " in A\n";
-				unsigned int k = 0;
-				bool inserted = false;
-				while(k < Y){
-					if (i % 3 == k && !inserted) {
-						subset.push_back(Z);
-						std::cout << "Inserting" << Z; // test
-						inserted = true;
-					}
-					else {
-						subset.push_back(A.at(j).at(k));
-						std::cout << "Inserting " << A.at(j).at(k) << "\n"; // test
-						k++;
-					}
-				}
-				for (int temp = 0; temp < subset.size(); temp++) {//test
-					std::cout << subset.at(temp);
-				}
-				//std::cout << "\n";//test
-			}
-			pSet.push_back(subset);
+		if (N == 0) {
+			std::vector<int> temp;
+			temp.push_back(X);
+			pSet.push_back(temp);
+			pSet.push_back(S.at(S.size() - 1));
 		}
-
-		/*
-		for N = 2
-		example sets {1, 2} and {2, 1} with k = 3
-		i = 0, 1, 2, 3, 4, 5
-		i % 3 = 0, 1, 2, 0, 1, 2
-		take elements 0, 1 from {1, 2} then
-		place element at = i % 3 
-		j = iterate through subset
-		*/
-		B.pop_back();
-		return pAlg(pSet, B);
+		else {
+			for (int i = 0; i < factorial(N); i++) { // Current set
+				for (int j = 0; j < N + 1; j++) { // Index to insert X at
+					std::vector<int> subset;
+					for (int k = 0; k < N; k++) { // Index of the elements from the current set
+						if (j == k) {
+							subset.push_back(X);	
+						}
+						subset.push_back(S.at(i).at(k));
+					}
+					if (j == N) { // Deals with the final set not pushing X 
+						subset.push_back(X);
+					}
+					pSet.push_back(subset);
+				}
+				
+			}
+			pSet.push_back(S.at(S.size() - 1));
+		}
+		return pAlg(pSet);
 	}
 }
-/*
-Generalising
 
-permutations In {A := {{...}, {...}} , B := {... , n - 1, n}} A is the permutated subsets, B is elements left to permutate
-K := Size of A ( number of sets it contains )
-N := n - K / size of B <- More general
-If N = 0 
-	return A
-Else 
-	take B_0 from B <- This is the next element that will be "added" to the permutations
-	i in 0 to K-1 <- i is for sets 
-	j in 0 to (K+1)! - 1 is for the position in the set A_i where the element B_0 should be placed
-	i and j wrong way round **********
-	i = j = 0
-	while i < K - 1
-		create new empty set
-		if j mod (K+1) = 0 incrimiment i
-		if i = j, empty set push back B_0
-		else empty set push back A_0_j // check index
-	remove the element B_0 that was "added"
-	return permutations {{new permutations sets}, B \ B_0}
 
-	// remake iterator 
-		// i is index over the sets i E {1, ... , k}
-		// j is index over each subset j E {1, ... , A.at0
-*/
+
+
 
