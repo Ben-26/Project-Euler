@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 35 - Circular Primes\Main.cpp(24,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 35 - Circular Primes\Main.cpp(27,44): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Problem 35 - Circular Primes.vcxproj -> C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 35 - Circular Primes\x64\Debug\Problem 35 - Circular Primes.exe
