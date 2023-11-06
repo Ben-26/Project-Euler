@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 
-std::vector <std::vector<int>> pAlg(std::vector <std::vector<int>> S);// Permutations algorithm - See Analysis.txt
+std::vector <std::vector<int>> pAlg(std::vector <std::vector<int>> S);// Permutates the input set S			NOTE: Input as {{} , {set to permutate}} 
 unsigned int factorial(unsigned int x); // Returns x!
 
 
@@ -9,13 +9,13 @@ int main() {
 	std::vector<int> digits = { 1, 2, 3, 4, 5, 6, 7, 8, 9 };
 
 
-	std::vector <std::vector<int>> temp = pAlg({ {}, {1, 2, 3, 4} });//test
-	std::cout << "\n" << std::endl;
-	for (int i = 0; i < temp.size(); i++) {
-		for (int j = 0; j < temp.at(i).size(); j++) {
-			std::cout << temp.at(i).at(j) << " ";
+	std::vector <std::vector<int>> P = pAlg({ {}, {1, 2, 3, 4} }); // Permutations 
+	for (unsigned int i = 0; i < P.size(); i++) {
+		for (int j = 0; j < 4; j++) {//Multiplicand
+			for (int k = 0; k < 4; k++) {//Multiplier 
+				
+			}
 		}
-		std::cout << "\n";
 	}
 	
 	return 0;
