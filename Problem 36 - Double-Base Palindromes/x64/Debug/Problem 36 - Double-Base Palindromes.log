@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 36 - Double-Base Palindromes\Main.cpp(25,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 36 - Double-Base Palindromes\Main.cpp(28,20): warning C4018: '<': signed/unsigned mismatch
+  Problem 36 - Double-Base Palindromes.vcxproj -> C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 36 - Double-Base Palindromes\x64\Debug\Problem 36 - Double-Base Palindromes.exe
