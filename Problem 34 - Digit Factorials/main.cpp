@@ -1,15 +1,12 @@
 #include <iostream>
 
 unsigned int factorial(unsigned int x);
-unsigned int sumDigits(unsigned int x);
+unsigned int sumDigitsFactorial(unsigned int x);
 
 int main() {
 	unsigned int sum = 0;
-
-	std::cout << sumDigits(123);
-
 	for (unsigned int i = 3; i < 7*factorial(9); i++) {
-		if (i == sumDigits(i)) {
+		if (i == sumDigitsFactorial(i)) {
 			sum += i;
 		}
 	}
@@ -18,13 +15,14 @@ int main() {
 }
 
 unsigned int factorial(unsigned int x) {
-	return x == 2 ? 2 : x * factorial(x - 1);
+	return x >= 2 ? x * factorial(x - 1) : (x == 0 or x == 1 ? 1 : 0);
 }
 
-unsigned int sumDigits(unsigned int x) {
-	unsigned int sum = 0;
-	for (int i = log10(x) + 1; i > 0; i--) {
-		sum += factorial(floor(x / pow(10, i)));
+unsigned int sumDigitsFactorial(unsigned int x){
+	unsigned int sum = 0; 
+	for (int i = 0; i < trunc(log10(x)) + 1; i++) {
+		sum += factorial((x % (int)pow(10, i + 1)) / pow(10, i));
+		x -= x % (int)pow(10, i + 1);
 	}
 	return sum;
 }

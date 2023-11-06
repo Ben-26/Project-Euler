@@ -1,4 +1,3 @@
 ﻿  main.cpp
-C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 34 - Digit Factorials\main.cpp(26,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
-C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 34 - Digit Factorials\main.cpp(27,25): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 34 - Digit Factorials\main.cpp(33,46): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
   Problem 34 - Digit Factorials.vcxproj -> C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 34 - Digit Factorials\x64\Debug\Problem 34 - Digit Factorials.exe
