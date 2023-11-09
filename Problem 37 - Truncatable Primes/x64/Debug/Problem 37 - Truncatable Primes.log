@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 37 - Truncatable Primes\Main.cpp(40,17): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 37 - Truncatable Primes\Main.cpp(41,26): warning C4244: 'argument': conversion from 'double' to 'unsigned int', possible loss of data
+  Problem 37 - Truncatable Primes.vcxproj -> C:\Users\Ben\OneDrive\Documents\C++\Project-Euler\Problem 37 - Truncatable Primes\x64\Debug\Problem 37 - Truncatable Primes.exe
