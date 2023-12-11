@@ -57,6 +57,7 @@ int main() {
 		}
 		i++;
 	}
+
 	if (tri.at(i).at(j) > tri.at(i).at(j + 1)) {
 		t += tri.at(i).at(j);
 	}

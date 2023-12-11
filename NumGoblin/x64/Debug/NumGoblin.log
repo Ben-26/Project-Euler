@@ -1,0 +1,8 @@
+﻿  NumGoblin.cpp
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\NumGoblin.cpp(124,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\NumGoblin.cpp(141,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\NumGoblin.cpp(194,8): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\NumGoblin.cpp(216,25): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\NumGoblin.cpp(218,20): warning C4018: '<': signed/unsigned mismatch
+MSVCRTD.lib(exe_main.obj) : error LNK2019: unresolved external symbol main referenced in function "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ)
+C:\Users\benlm\Documents\C++\Project Euler\NumGoblin\x64\Debug\NumGoblin.exe : fatal error LNK1120: 1 unresolved externals

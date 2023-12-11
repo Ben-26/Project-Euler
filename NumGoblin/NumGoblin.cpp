@@ -1,6 +1,7 @@
 #pragma once
 #include "NumGoblin.h"
 
+
 // Functions
 unsigned int nGob::intFactorial(unsigned int x) {
 	return x > 1 ? x * intFactorial(x - 1) : (x == 0 or x == 1 ? 1 : 0);
@@ -109,3 +110,6 @@ std::vector<int> nGob::toVector(unsigned int x) {
 	}
 	return digits;
 }
+
+
+
