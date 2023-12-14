@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 40 - Champernowne's Constant\main.cpp(15,17): warning C4244: '*=': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\benlm\Documents\C++\Project Euler\Problem 40 - Champernowne's Constant\main.cpp(18,29): warning C4244: '+=': conversion from 'double' to 'unsigned int', possible loss of data
+  Problem 40 - Champernowne's Constant.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 40 - Champernowne's Constant\x64\Debug\Problem 40 - Champernowne's Constant.exe
