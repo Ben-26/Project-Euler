@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\benlm\Documents\C++\Project Euler\Problem 38 - Pandigital Multiples\main.cpp(18,26): warning C4018: '>': signed/unsigned mismatch
+C:\Users\benlm\Documents\C++\Project Euler\Problem 38 - Pandigital Multiples\main.cpp(43,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  Problem 38 - Pandigital Multiples.vcxproj -> C:\Users\benlm\Documents\C++\Project Euler\Problem 38 - Pandigital Multiples\x64\Debug\Problem 38 - Pandigital Multiples.exe
