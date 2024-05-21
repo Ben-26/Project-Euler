@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 41 - Pandigital Prime\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3374C7F-E671-42BD-AA87-9B5190F24B3B}|Problem 41 - Pandigital Prime.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 41 - Pandigital Prime\\Problem_41___Pandigital_Prime.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3374C7F-E671-42BD-AA87-9B5190F24B3B}|Problem 41 - Pandigital Prime.pyproj|solutionrelative:Problem_41___Pandigital_Prime.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_41___Pandigital_Prime.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 41 - Pandigital Prime\\Problem_41___Pandigital_Prime.py",
+              "RelativeDocumentMoniker": "Problem_41___Pandigital_Prime.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 41 - Pandigital Prime\\Problem_41___Pandigital_Prime.py",
+              "RelativeToolTip": "Problem_41___Pandigital_Prime.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-20T18:30:49.048Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
