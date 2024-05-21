@@ -22,15 +22,16 @@ def prime(x):
     while (i*i < x):
         if(x % i == 0):
             return False
+        i+=2
     return True
 
-
 n = 10
+
 x = [i for i in range(1, n)]
 
 while not(prime(int(''.join(map(str, x))))): 
     if x == [1]:
         break
     x = prev_perm(x)
-   
-print(f"Prime: {x}")
+
+print(f"Prime: {''.join(map(str, x))}")
