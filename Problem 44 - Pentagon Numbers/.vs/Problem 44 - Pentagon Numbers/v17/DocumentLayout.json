@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 44 - Pentagon Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{598F6DD7-5959-4D9B-8317-514985689B0D}|Problem 44 - Pentagon Numbers.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 44 - Pentagon Numbers\\Problem_44___Pentagon_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{598F6DD7-5959-4D9B-8317-514985689B0D}|Problem 44 - Pentagon Numbers.pyproj|solutionrelative:Problem_44___Pentagon_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_44___Pentagon_Numbers.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 44 - Pentagon Numbers\\Problem_44___Pentagon_Numbers.py",
+              "RelativeDocumentMoniker": "Problem_44___Pentagon_Numbers.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 44 - Pentagon Numbers\\Problem_44___Pentagon_Numbers.py",
+              "RelativeToolTip": "Problem_44___Pentagon_Numbers.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T18:09:52.954Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
