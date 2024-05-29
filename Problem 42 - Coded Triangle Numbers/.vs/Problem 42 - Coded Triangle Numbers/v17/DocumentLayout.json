@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB5245F-FE88-42A2-93C7-3212BEF602F5}|Problem 42 - Coded Triangle Numbers.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\Problem_42___Coded_Triangle_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5AB5245F-FE88-42A2-93C7-3212BEF602F5}|Problem 42 - Coded Triangle Numbers.pyproj|solutionrelative:Problem_42___Coded_Triangle_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\0042_words.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:0042_words.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_42___Coded_Triangle_Numbers.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\Problem_42___Coded_Triangle_Numbers.py",
+              "RelativeDocumentMoniker": "Problem_42___Coded_Triangle_Numbers.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\Problem_42___Coded_Triangle_Numbers.py",
+              "RelativeToolTip": "Problem_42___Coded_Triangle_Numbers.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T17:45:05.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0042_words.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\0042_words.txt",
+              "RelativeDocumentMoniker": "0042_words.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 42 - Coded Triangle Numbers\\0042_words.txt",
+              "RelativeToolTip": "0042_words.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-29T17:53:29.476Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

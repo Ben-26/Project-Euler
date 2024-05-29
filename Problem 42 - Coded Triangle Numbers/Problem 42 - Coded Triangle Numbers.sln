@@ -1,31 +1,23 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.8.34330.188
+VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Problem 42 - Coded Triangle Numbers", "Problem 42 - Coded Triangle Numbers.vcxproj", "{E5ADF885-9E60-4662-A128-5A02C689DFDA}"
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 42 - Coded Triangle Numbers", "Problem 42 - Coded Triangle Numbers.pyproj", "{5AB5245F-FE88-42A2-93C7-3212BEF602F5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
-		Debug|x64 = Debug|x64
-		Debug|x86 = Debug|x86
-		Release|x64 = Release|x64
-		Release|x86 = Release|x86
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Debug|x64.ActiveCfg = Debug|x64
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Debug|x64.Build.0 = Debug|x64
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Debug|x86.ActiveCfg = Debug|Win32
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Debug|x86.Build.0 = Debug|Win32
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Release|x64.ActiveCfg = Release|x64
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Release|x64.Build.0 = Release|x64
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Release|x86.ActiveCfg = Release|Win32
-		{E5ADF885-9E60-4662-A128-5A02C689DFDA}.Release|x86.Build.0 = Release|Win32
+		{5AB5245F-FE88-42A2-93C7-3212BEF602F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB5245F-FE88-42A2-93C7-3212BEF602F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D6A6EB4C-4B6C-459E-BB5F-3F88AC77382F}
+		SolutionGuid = {A4D71E26-67F1-423F-8298-EA1EF9CFC928}
 	EndGlobalSection
 EndGlobal
