@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal (Python)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F077DEE-110F-493C-AB0F-ECEEF04E3BD3}|Problem 45 - Triangular, Pentagonal, and Hexagonal (Python).pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal (Python)\\Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{6F077DEE-110F-493C-AB0F-ECEEF04E3BD3}|Problem 45 - Triangular, Pentagonal, and Hexagonal (Python).pyproj|solutionrelative:Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "RelativeDocumentMoniker": "..\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "RelativeToolTip": "..\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T23:12:55.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal (Python)\\Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py",
+              "RelativeDocumentMoniker": "Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal (Python)\\Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py",
+              "RelativeToolTip": "Problem_45___Triangular__Pentagonal__and_Hexagonal__Python_.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T23:11:40.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FDA6FA8B-8199-441F-83C8-8655633F686F}|Problem 45 - Triangular, Pentagonal, and Hexagonal.vcxproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{FDA6FA8B-8199-441F-83C8-8655633F686F}|Problem 45 - Triangular, Pentagonal, and Hexagonal.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 45 - Triangular, Pentagonal, and Hexagonal\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-29T18:49:03.046Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
