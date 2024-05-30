@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 46 - Goldbach's Other Conjecture", "Problem 46 - Goldbach's Other Conjecture.pyproj", "{62FB685D-B699-49CD-8252-84668757892B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62FB685D-B699-49CD-8252-84668757892B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62FB685D-B699-49CD-8252-84668757892B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9210FE08-7B9F-4324-B3C3-EDA180BA12D6}
+	EndGlobalSection
+EndGlobal

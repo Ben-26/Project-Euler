@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 46 - Goldbach\u0027s Other Conjecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62FB685D-B699-49CD-8252-84668757892B}|Problem 46 - Goldbach\u0027s Other Conjecture.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 46 - Goldbach\u0027s Other Conjecture\\Problem_46___Goldbach_s_Other_Conjecture.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{62FB685D-B699-49CD-8252-84668757892B}|Problem 46 - Goldbach\u0027s Other Conjecture.pyproj|solutionrelative:Problem_46___Goldbach_s_Other_Conjecture.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_46___Goldbach_s_Other_Conjecture.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 46 - Goldbach\u0027s Other Conjecture\\Problem_46___Goldbach_s_Other_Conjecture.py",
+              "RelativeDocumentMoniker": "Problem_46___Goldbach_s_Other_Conjecture.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 46 - Goldbach\u0027s Other Conjecture\\Problem_46___Goldbach_s_Other_Conjecture.py",
+              "RelativeToolTip": "Problem_46___Goldbach_s_Other_Conjecture.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-29T23:19:34.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
