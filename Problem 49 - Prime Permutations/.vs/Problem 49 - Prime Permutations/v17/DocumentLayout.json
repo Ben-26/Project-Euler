@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 49 - Prime Permutations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{35583FCA-CDA2-432A-AC51-5A4A0B452446}|Problem 49 - Prime Permutations.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 49 - Prime Permutations\\Problem_49___Prime_Permutations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{35583FCA-CDA2-432A-AC51-5A4A0B452446}|Problem 49 - Prime Permutations.pyproj|solutionrelative:Problem_49___Prime_Permutations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_49___Prime_Permutations.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 49 - Prime Permutations\\Problem_49___Prime_Permutations.py",
+              "RelativeDocumentMoniker": "Problem_49___Prime_Permutations.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 49 - Prime Permutations\\Problem_49___Prime_Permutations.py",
+              "RelativeToolTip": "Problem_49___Prime_Permutations.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-30T18:12:58.597Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
