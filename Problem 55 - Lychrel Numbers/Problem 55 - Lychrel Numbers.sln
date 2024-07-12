@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 55 - Lychrel Numbers", "Problem 55 - Lychrel Numbers.pyproj", "{C95A25FF-4480-490A-AEC2-AA661F29D2DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C95A25FF-4480-490A-AEC2-AA661F29D2DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C95A25FF-4480-490A-AEC2-AA661F29D2DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64AA44DC-DEDF-4626-A59C-F7B800C7C039}
+	EndGlobalSection
+EndGlobal
