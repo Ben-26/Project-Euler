@@ -1,5 +1,6 @@
-## List of 4 digit primes -> Digitise -> Permutate 4 digits -> Prime check -> Sequence check 
-from math import log10, floor
+## List of 4 digit primes -> Sequence check -> Prime check -> Perm check 
+
+#from math import log10, floor
 
 def is_prime(x):
     if (x == 2):
@@ -13,37 +14,17 @@ def is_prime(x):
             return False
         i+=2
     return True
-
-def fourDigitPermutator(x):
-    return x
-
-def seqCheck(x):
-    if x[2] - x[1] == x[1] - x[0]:
-        print(x)
-    return True
-
-def digitise(x):
-    digits = [0]*(floor(log10(x)) + 1)
-    for i in range(0, floor(log10(x)) + 1):
-        digits[-1 * (i + 1)] = x % 10**i
-        x = x - digits[-1 * (i + 1)]
-    return digits
-
+  
 if __name__ == "__main__":
     primes = []
     for i in range(1001, 9999):
         if is_prime(i):
             primes.append(i)
     for p in primes:
-        continue
+        for i in range(1, 4500):
+            if p - i in primes and p + i in primes:
+                if sorted(map(int, str(p - i))) == sorted(map(int, str(p))) and sorted(map(int, str(p - i))) == sorted(map(int, str(p + i))):
+                    print(f"{[p-i, p, p+i]} : {str(p-i) + str(p) + str(p + i)}")
+                
     
-
-# Calculates a^k ( mod n )
-def modulo(a, k, n):
-    if a < n:
-        return a
-    elif a == n:
-        return 0
-    else:
-        return 
             

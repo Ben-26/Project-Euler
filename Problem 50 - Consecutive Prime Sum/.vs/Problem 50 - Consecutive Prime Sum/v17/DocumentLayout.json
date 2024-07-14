@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 50 - Consecutive Prime Sum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EDA780F-12E9-4307-8486-40DC8860B04C}|Problem 50 - Consecutive Prime Sum.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 50 - Consecutive Prime Sum\\Problem_50___Consecutive_Prime_Sum.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3EDA780F-12E9-4307-8486-40DC8860B04C}|Problem 50 - Consecutive Prime Sum.pyproj|solutionrelative:Problem_50___Consecutive_Prime_Sum.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_50___Consecutive_Prime_Sum.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 50 - Consecutive Prime Sum\\Problem_50___Consecutive_Prime_Sum.py",
+              "RelativeDocumentMoniker": "Problem_50___Consecutive_Prime_Sum.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 50 - Consecutive Prime Sum\\Problem_50___Consecutive_Prime_Sum.py",
+              "RelativeToolTip": "Problem_50___Consecutive_Prime_Sum.py",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAwCcAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T15:12:01.78Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

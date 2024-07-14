@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99A6D52A-9D50-4475-A821-6CD97B45DE68}|Problem 54 - Poker Hands.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\Problem_54___Poker_Hands.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99A6D52A-9D50-4475-A821-6CD97B45DE68}|Problem 54 - Poker Hands.pyproj|solutionrelative:Problem_54___Poker_Hands.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99A6D52A-9D50-4475-A821-6CD97B45DE68}|Problem 54 - Poker Hands.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\0054_poker.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{99A6D52A-9D50-4475-A821-6CD97B45DE68}|Problem 54 - Poker Hands.pyproj|solutionrelative:0054_poker.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_54___Poker_Hands.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\Problem_54___Poker_Hands.py",
+              "RelativeDocumentMoniker": "Problem_54___Poker_Hands.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\Problem_54___Poker_Hands.py",
+              "RelativeToolTip": "Problem_54___Poker_Hands.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T20:08:18.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0054_poker.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\0054_poker.txt",
+              "RelativeDocumentMoniker": "0054_poker.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 54 - Poker Hands\\0054_poker.txt",
+              "RelativeToolTip": "0054_poker.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-14T20:09:26.191Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

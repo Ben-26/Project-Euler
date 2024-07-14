@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 47 - Distinct Prime Factors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C1AC9130-9EE9-4A14-8E3A-B18C16CCFAC6}|Problem 47 - Distinct Prime Factors.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 47 - Distinct Prime Factors\\Problem_47___Distinct_Prime_Factors.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C1AC9130-9EE9-4A14-8E3A-B18C16CCFAC6}|Problem 47 - Distinct Prime Factors.pyproj|solutionrelative:Problem_47___Distinct_Prime_Factors.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_47___Distinct_Prime_Factors.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 47 - Distinct Prime Factors\\Problem_47___Distinct_Prime_Factors.py",
+              "RelativeDocumentMoniker": "Problem_47___Distinct_Prime_Factors.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 47 - Distinct Prime Factors\\Problem_47___Distinct_Prime_Factors.py",
+              "RelativeToolTip": "Problem_47___Distinct_Prime_Factors.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-14T13:32:40.814Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
