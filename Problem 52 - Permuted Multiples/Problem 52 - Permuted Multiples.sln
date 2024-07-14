@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 52 - Permuted Multiples", "Problem 52 - Permuted Multiples.pyproj", "{6CBAEBBD-AAC5-4716-B8A1-4312FE07CB36}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6CBAEBBD-AAC5-4716-B8A1-4312FE07CB36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CBAEBBD-AAC5-4716-B8A1-4312FE07CB36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3E65AFD-EBEE-4DB4-A755-69C48107FBAC}
+	EndGlobalSection
+EndGlobal
