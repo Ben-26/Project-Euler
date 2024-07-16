@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 63 - Powerful Digit Counts\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F64562D3-7947-492C-A24F-B3F26E1289E0}|Problem 63 - Powerful Digit Counts.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 63 - Powerful Digit Counts\\Problem_63___Powerful_Digit_Counts.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F64562D3-7947-492C-A24F-B3F26E1289E0}|Problem 63 - Powerful Digit Counts.pyproj|solutionrelative:Problem_63___Powerful_Digit_Counts.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_63___Powerful_Digit_Counts.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 63 - Powerful Digit Counts\\Problem_63___Powerful_Digit_Counts.py",
+              "RelativeDocumentMoniker": "Problem_63___Powerful_Digit_Counts.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 63 - Powerful Digit Counts\\Problem_63___Powerful_Digit_Counts.py",
+              "RelativeToolTip": "Problem_63___Powerful_Digit_Counts.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-16T10:43:11.765Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
