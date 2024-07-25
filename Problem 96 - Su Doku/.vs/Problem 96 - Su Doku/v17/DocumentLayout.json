@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\Problem_96___Su_Doku.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|solutionrelative:Problem_96___Su_Doku.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|solutionrelative:sudoku.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku_row_and_column_cleaner.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|solutionrelative:sudoku_row_and_column_cleaner.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\test.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}|Problem 96 - Su Doku.pyproj|solutionrelative:test.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_96___Su_Doku.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\Problem_96___Su_Doku.py",
+              "RelativeDocumentMoniker": "Problem_96___Su_Doku.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\Problem_96___Su_Doku.py",
+              "RelativeToolTip": "Problem_96___Su_Doku.py",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEQAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-18T12:43:37.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sudoku_row_and_column_cleaner.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku_row_and_column_cleaner.py",
+              "RelativeDocumentMoniker": "sudoku_row_and_column_cleaner.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku_row_and_column_cleaner.py",
+              "RelativeToolTip": "sudoku_row_and_column_cleaner.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T15:05:33.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "test.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\test.py",
+              "RelativeDocumentMoniker": "test.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\test.py",
+              "RelativeToolTip": "test.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T15:02:49.984Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sudoku.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku.txt",
+              "RelativeDocumentMoniker": "sudoku.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Su Doku\\sudoku.txt",
+              "RelativeToolTip": "sudoku.txt",
+              "ViewState": "AQIAALgBAAAAAAAAAAAIwPMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-18T12:44:41.068Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 96 - Su Doku", "Problem 96 - Su Doku.pyproj", "{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBE8F89F-6F53-4107-BC34-A2AB5589D87B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FF229A18-95EC-40A1-B0B6-D8546B4BE5C2}
+	EndGlobalSection
+EndGlobal

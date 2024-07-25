@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\Problem_96___Sudoku.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|solutionrelative:Problem_96___Sudoku.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\solution.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|solutionrelative:solution.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\sudoku.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5D0241DD-130D-4ECA-8A5D-D41A93E406BA}|Problem 96 - Sudoku.pyproj|solutionrelative:sudoku.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 275,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_96___Sudoku.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\Problem_96___Sudoku.py",
+              "RelativeDocumentMoniker": "Problem_96___Sudoku.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\Problem_96___Sudoku.py",
+              "RelativeToolTip": "Problem_96___Sudoku.py",
+              "ViewState": "AQIAADEAAAAAAAAAAAAAAG8AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T15:06:22.088Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "solution.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\solution.py",
+              "RelativeDocumentMoniker": "solution.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\solution.py",
+              "RelativeToolTip": "solution.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-20T14:29:21.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sudoku.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\sudoku.txt",
+              "RelativeDocumentMoniker": "sudoku.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 96 - Sudoku\\sudoku.txt",
+              "RelativeToolTip": "sudoku.txt",
+              "ViewState": "AQIAAMIBAAAAAAAAAAAwwPMBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-19T15:06:39.151Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
