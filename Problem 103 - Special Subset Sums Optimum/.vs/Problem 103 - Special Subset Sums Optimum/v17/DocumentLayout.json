@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27431F-7EB8-4A03-8B47-B58A60522730}|Problem 103 - Special Subset Sums Optimum.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\Problem_103___Special_Subset_Sums_Optimum.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F27431F-7EB8-4A03-8B47-B58A60522730}|Problem 103 - Special Subset Sums Optimum.pyproj|solutionrelative:Problem_103___Special_Subset_Sums_Optimum.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F27431F-7EB8-4A03-8B47-B58A60522730}|Problem 103 - Special Subset Sums Optimum.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1F27431F-7EB8-4A03-8B47-B58A60522730}|Problem 103 - Special Subset Sums Optimum.pyproj|solutionrelative:analysis.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "analysis.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
+              "RelativeDocumentMoniker": "analysis.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
+              "RelativeToolTip": "analysis.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-28T14:35:54.224Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_103___Special_Subset_Sums_Optimum.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\Problem_103___Special_Subset_Sums_Optimum.py",
+              "RelativeDocumentMoniker": "Problem_103___Special_Subset_Sums_Optimum.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\Problem_103___Special_Subset_Sums_Optimum.py",
+              "RelativeToolTip": "Problem_103___Special_Subset_Sums_Optimum.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T13:01:40.33Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 76 - Counting Summations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10973037-F1D7-48D5-ABA4-3ADDAA179CB2}|Problem 76 - Counting Summations.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 76 - Counting Summations\\Problem_76___Counting_Summations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10973037-F1D7-48D5-ABA4-3ADDAA179CB2}|Problem 76 - Counting Summations.pyproj|solutionrelative:Problem_76___Counting_Summations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_76___Counting_Summations.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 76 - Counting Summations\\Problem_76___Counting_Summations.py",
+              "RelativeDocumentMoniker": "Problem_76___Counting_Summations.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 76 - Counting Summations\\Problem_76___Counting_Summations.py",
+              "RelativeToolTip": "Problem_76___Counting_Summations.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-29T15:46:07.368Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

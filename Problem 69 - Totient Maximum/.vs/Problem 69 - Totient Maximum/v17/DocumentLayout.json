@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 69 - Totient Maximum\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{58B50019-7F3A-4384-9CCD-75366C477470}|Problem 69 - Totient Maximum.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 69 - Totient Maximum\\Problem_69___Totient_Maximum.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{58B50019-7F3A-4384-9CCD-75366C477470}|Problem 69 - Totient Maximum.pyproj|solutionrelative:Problem_69___Totient_Maximum.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_69___Totient_Maximum.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 69 - Totient Maximum\\Problem_69___Totient_Maximum.py",
+              "RelativeDocumentMoniker": "Problem_69___Totient_Maximum.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 69 - Totient Maximum\\Problem_69___Totient_Maximum.py",
+              "RelativeToolTip": "Problem_69___Totient_Maximum.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-01T14:27:40.129Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

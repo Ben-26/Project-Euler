@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 84 - Monopoly Odds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E1C442D-1FA8-4AA3-913C-E214A4CA11A3}|Problem 84 - Monopoly Odds.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 84 - Monopoly Odds\\Problem_84___Monopoly_Odds.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5E1C442D-1FA8-4AA3-913C-E214A4CA11A3}|Problem 84 - Monopoly Odds.pyproj|solutionrelative:Problem_84___Monopoly_Odds.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_84___Monopoly_Odds.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 84 - Monopoly Odds\\Problem_84___Monopoly_Odds.py",
+              "RelativeDocumentMoniker": "Problem_84___Monopoly_Odds.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 84 - Monopoly Odds\\Problem_84___Monopoly_Odds.py",
+              "RelativeToolTip": "Problem_84___Monopoly_Odds.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-27T19:42:00.848Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

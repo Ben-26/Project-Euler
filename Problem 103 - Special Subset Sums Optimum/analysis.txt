@@ -1,0 +1,25 @@
+n = 1: {1}
+n = 2: {1, 2}
+n = 3: {2, 3, 4}
+n = 4: {3, 5, 6, 7}
+n = 5: {6, 9, 11, 12, 13}
+n = 6: {11, 18, 19, 20, 22, 25}
+
+Notation: 
+A_m is the m'th optimum special sum set
+a_(m,n) is the n'th term in A_m
+
+Term formulae
+a_(n, 1) = a_(n - 1, floor((n - 1) / 2) + 1)
+a_(n, 2) = a_(n - 1, 1) + a_(n - 1, n - 2)
+a_(n, 3) = a_(n, n) + a_(n, n - 1) + 1 - a_(n, 1) - a_(n, 2)
+
+a_(n, n - 1) = 2a_(n, 1)
+a_(n, n) = a_(n - 1, n - 1) + a_(n - 1, n - 2)     ( Maximum and 2nd Maximum )
+
+manually checking a_4 and a_5
+a_4 = 36, a_5 = 37 breaks as 20 + 33 + 35 + 36 = 37 + 40 + 47
+
+
+n = 7: {20, 33, 35, , , 40, 47}
+Tried all combos of {37, 38, 39} in 4th and 5th - All wrong 

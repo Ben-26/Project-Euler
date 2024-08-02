@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 77 - Prime Summations", "Problem 77 - Prime Summations.pyproj", "{2C884F21-A514-43FD-B737-2CDC43ECD36E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C884F21-A514-43FD-B737-2CDC43ECD36E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C884F21-A514-43FD-B737-2CDC43ECD36E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C03D944D-22A1-4599-9B18-8465316483AB}
+	EndGlobalSection
+EndGlobal

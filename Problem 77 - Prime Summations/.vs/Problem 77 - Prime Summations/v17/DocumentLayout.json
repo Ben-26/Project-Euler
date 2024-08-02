@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 77 - Prime Summations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C884F21-A514-43FD-B737-2CDC43ECD36E}|Problem 77 - Prime Summations.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 77 - Prime Summations\\Problem_77___Prime_Summations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2C884F21-A514-43FD-B737-2CDC43ECD36E}|Problem 77 - Prime Summations.pyproj|solutionrelative:Problem_77___Prime_Summations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_77___Prime_Summations.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 77 - Prime Summations\\Problem_77___Prime_Summations.py",
+              "RelativeDocumentMoniker": "Problem_77___Prime_Summations.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 77 - Prime Summations\\Problem_77___Prime_Summations.py",
+              "RelativeToolTip": "Problem_77___Prime_Summations.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-29T23:35:24.87Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
