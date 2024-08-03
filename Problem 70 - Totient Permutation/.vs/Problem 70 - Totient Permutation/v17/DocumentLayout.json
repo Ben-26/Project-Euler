@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 70 - Totient Permutation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9719FB5-2D4D-4684-8F82-0847F485919B}|Problem 70 - Totient Permutation.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 70 - Totient Permutation\\Problem_70___Totient_Permutation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F9719FB5-2D4D-4684-8F82-0847F485919B}|Problem 70 - Totient Permutation.pyproj|solutionrelative:Problem_70___Totient_Permutation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_70___Totient_Permutation.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 70 - Totient Permutation\\Problem_70___Totient_Permutation.py",
+              "RelativeDocumentMoniker": "Problem_70___Totient_Permutation.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 70 - Totient Permutation\\Problem_70___Totient_Permutation.py",
+              "RelativeToolTip": "Problem_70___Totient_Permutation.py",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-03T14:25:11.151Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

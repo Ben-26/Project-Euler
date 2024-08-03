@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 72 - Counting Fractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82DC54F6-4F47-4A62-83A0-578000E539D2}|Problem 72 - Counting Fractions.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 72 - Counting Fractions\\Problem_72___Counting_Fractions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{82DC54F6-4F47-4A62-83A0-578000E539D2}|Problem 72 - Counting Fractions.pyproj|solutionrelative:Problem_72___Counting_Fractions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_72___Counting_Fractions.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 72 - Counting Fractions\\Problem_72___Counting_Fractions.py",
+              "RelativeDocumentMoniker": "Problem_72___Counting_Fractions.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 72 - Counting Fractions\\Problem_72___Counting_Fractions.py",
+              "RelativeToolTip": "Problem_72___Counting_Fractions.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-03T13:13:04.326Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

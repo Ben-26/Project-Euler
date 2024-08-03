@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 73 - Counting Fractions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9D09BDA4-EFAA-4D51-8005-24E8DB346319}|Problem 73 - Counting Fractions.vcxproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 73 - Counting Fractions\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9D09BDA4-EFAA-4D51-8005-24E8DB346319}|Problem 73 - Counting Fractions.vcxproj|solutionrelative:main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 73 - Counting Fractions\\main.cpp",
+              "RelativeDocumentMoniker": "main.cpp",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 73 - Counting Fractions\\main.cpp",
+              "RelativeToolTip": "main.cpp",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAABcAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-03T13:25:04.892Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
