@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 64 - Odd Period Square Roots\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B127F90-2485-4055-8359-94808537A2A8}|Problem 64 - Odd Period Square Roots.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 64 - Odd Period Square Roots\\Problem_64___Odd_Period_Square_Roots.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3B127F90-2485-4055-8359-94808537A2A8}|Problem 64 - Odd Period Square Roots.pyproj|solutionrelative:Problem_64___Odd_Period_Square_Roots.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_64___Odd_Period_Square_Roots.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 64 - Odd Period Square Roots\\Problem_64___Odd_Period_Square_Roots.py",
+              "RelativeDocumentMoniker": "Problem_64___Odd_Period_Square_Roots.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 64 - Odd Period Square Roots\\Problem_64___Odd_Period_Square_Roots.py",
+              "RelativeToolTip": "Problem_64___Odd_Period_Square_Roots.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-02T13:36:18.716Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

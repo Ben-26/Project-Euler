@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 65 - Convergents of e\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4802017-9B8C-48E1-89C5-09BB067ABF72}|Problem 65 - Convergents of e.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 65 - Convergents of e\\Problem_65___Convergents_of_e.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B4802017-9B8C-48E1-89C5-09BB067ABF72}|Problem 65 - Convergents of e.pyproj|solutionrelative:Problem_65___Convergents_of_e.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_65___Convergents_of_e.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 65 - Convergents of e\\Problem_65___Convergents_of_e.py",
+              "RelativeDocumentMoniker": "Problem_65___Convergents_of_e.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 65 - Convergents of e\\Problem_65___Convergents_of_e.py",
+              "RelativeToolTip": "Problem_65___Convergents_of_e.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-02T13:08:30.771Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
