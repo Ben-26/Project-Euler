@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 78 - Coin Partitions\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A820105A-12F0-45E1-B45B-6F11B187128C}|Problem 78 - Coin Partitions.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 78 - Coin Partitions\\Problem_78___Coin_Partitions.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A820105A-12F0-45E1-B45B-6F11B187128C}|Problem 78 - Coin Partitions.pyproj|solutionrelative:Problem_78___Coin_Partitions.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_78___Coin_Partitions.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 78 - Coin Partitions\\Problem_78___Coin_Partitions.py",
+              "RelativeDocumentMoniker": "Problem_78___Coin_Partitions.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 78 - Coin Partitions\\Problem_78___Coin_Partitions.py",
+              "RelativeToolTip": "Problem_78___Coin_Partitions.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-05T13:08:33.997Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

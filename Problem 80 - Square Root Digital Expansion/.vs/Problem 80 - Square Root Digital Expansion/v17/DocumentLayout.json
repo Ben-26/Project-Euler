@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 80 - Square Root Digital Expansion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3981CC4D-150D-4585-8BB8-546C3558B1E2}|Problem 80 - Square Root Digital Expansion.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 80 - Square Root Digital Expansion\\Problem_80___Square_Root_Digital_Expansion.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3981CC4D-150D-4585-8BB8-546C3558B1E2}|Problem 80 - Square Root Digital Expansion.pyproj|solutionrelative:Problem_80___Square_Root_Digital_Expansion.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_80___Square_Root_Digital_Expansion.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 80 - Square Root Digital Expansion\\Problem_80___Square_Root_Digital_Expansion.py",
+              "RelativeDocumentMoniker": "Problem_80___Square_Root_Digital_Expansion.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 80 - Square Root Digital Expansion\\Problem_80___Square_Root_Digital_Expansion.py",
+              "RelativeToolTip": "Problem_80___Square_Root_Digital_Expansion.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-03T16:20:20.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

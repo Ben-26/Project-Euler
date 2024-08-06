@@ -6,10 +6,12 @@ def main():
     for i in range(1, 101):
         for j in range(i, 101):
             cache[j] += cache[j - i]
-
-    for i, c in enumerate(cache):
-        print(f"{i + 1} can be constructed with {c} combinations")
+    
+    # All values in cache are 1 greater than intended 
+    #for i in range(1, 101):
+    #    cache[i] -= 1 
+        
+    print(cache[-1] - 1)
 
 if __name__ == "__main__":
     main()
-    

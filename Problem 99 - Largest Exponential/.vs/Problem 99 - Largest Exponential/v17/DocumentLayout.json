@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2278724D-EF5C-4D26-9D4E-446172CB08FA}|Problem 99 - Largest Exponential.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\Problem_99___Largest_Exponential.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2278724D-EF5C-4D26-9D4E-446172CB08FA}|Problem 99 - Largest Exponential.pyproj|solutionrelative:Problem_99___Largest_Exponential.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2278724D-EF5C-4D26-9D4E-446172CB08FA}|Problem 99 - Largest Exponential.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\0099_base_exp.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{2278724D-EF5C-4D26-9D4E-446172CB08FA}|Problem 99 - Largest Exponential.pyproj|solutionrelative:0099_base_exp.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0099_base_exp.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\0099_base_exp.txt",
+              "RelativeDocumentMoniker": "0099_base_exp.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\0099_base_exp.txt",
+              "RelativeToolTip": "0099_base_exp.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-06T15:22:05.867Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_99___Largest_Exponential.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\Problem_99___Largest_Exponential.py",
+              "RelativeDocumentMoniker": "Problem_99___Largest_Exponential.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 99 - Largest Exponential\\Problem_99___Largest_Exponential.py",
+              "RelativeToolTip": "Problem_99___Largest_Exponential.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T15:17:43.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

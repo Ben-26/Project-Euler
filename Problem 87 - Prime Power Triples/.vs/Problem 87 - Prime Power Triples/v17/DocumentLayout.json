@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 87 - Prime Power Triples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CC1D4214-C691-4200-8328-7A80434F7C51}|Problem 87 - Prime Power Triples.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 87 - Prime Power Triples\\Problem_87___Prime_Power_Triples.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CC1D4214-C691-4200-8328-7A80434F7C51}|Problem 87 - Prime Power Triples.pyproj|solutionrelative:Problem_87___Prime_Power_Triples.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_87___Prime_Power_Triples.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 87 - Prime Power Triples\\Problem_87___Prime_Power_Triples.py",
+              "RelativeDocumentMoniker": "Problem_87___Prime_Power_Triples.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 87 - Prime Power Triples\\Problem_87___Prime_Power_Triples.py",
+              "RelativeToolTip": "Problem_87___Prime_Power_Triples.py",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-04T01:11:17.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
