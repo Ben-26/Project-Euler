@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5482CFCF-3F3F-4419-9E6E-FB060811A934}|Problem 81 - Path Sum Two Ways.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\Problem_81___Path_Sum_Two_Ways.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5482CFCF-3F3F-4419-9E6E-FB060811A934}|Problem 81 - Path Sum Two Ways.pyproj|solutionrelative:Problem_81___Path_Sum_Two_Ways.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5482CFCF-3F3F-4419-9E6E-FB060811A934}|Problem 81 - Path Sum Two Ways.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\0081_matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5482CFCF-3F3F-4419-9E6E-FB060811A934}|Problem 81 - Path Sum Two Ways.pyproj|solutionrelative:0081_matrix.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0081_matrix.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\0081_matrix.txt",
+              "RelativeDocumentMoniker": "0081_matrix.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\0081_matrix.txt",
+              "RelativeToolTip": "0081_matrix.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-07T12:05:39.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_81___Path_Sum_Two_Ways.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\Problem_81___Path_Sum_Two_Ways.py",
+              "RelativeDocumentMoniker": "Problem_81___Path_Sum_Two_Ways.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 81 - Path Sum Two Ways\\Problem_81___Path_Sum_Two_Ways.py",
+              "RelativeToolTip": "Problem_81___Path_Sum_Two_Ways.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-06T22:08:04.627Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
