@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 113 - Non-Bouncy Numbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22BA2B1B-BCB4-4886-AC41-D5CC86102CC8}|Problem 113 - Non-Bouncy Numbers.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 113 - Non-Bouncy Numbers\\Problem_113___Non_Bouncy_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{22BA2B1B-BCB4-4886-AC41-D5CC86102CC8}|Problem 113 - Non-Bouncy Numbers.pyproj|solutionrelative:Problem_113___Non_Bouncy_Numbers.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_113___Non_Bouncy_Numbers.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 113 - Non-Bouncy Numbers\\Problem_113___Non_Bouncy_Numbers.py",
+              "RelativeDocumentMoniker": "Problem_113___Non_Bouncy_Numbers.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 113 - Non-Bouncy Numbers\\Problem_113___Non_Bouncy_Numbers.py",
+              "RelativeToolTip": "Problem_113___Non_Bouncy_Numbers.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-20T22:16:36.605Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
