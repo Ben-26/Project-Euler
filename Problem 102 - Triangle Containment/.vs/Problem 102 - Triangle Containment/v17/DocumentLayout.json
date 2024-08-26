@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7E762-631B-4CCA-AC22-AA61A1180615}|Problem 102 - Triangle Containment.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\Problem_102___Triangle_Containment.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4B7E762-631B-4CCA-AC22-AA61A1180615}|Problem 102 - Triangle Containment.pyproj|solutionrelative:Problem_102___Triangle_Containment.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4B7E762-631B-4CCA-AC22-AA61A1180615}|Problem 102 - Triangle Containment.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\0102_triangles.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C4B7E762-631B-4CCA-AC22-AA61A1180615}|Problem 102 - Triangle Containment.pyproj|solutionrelative:0102_triangles.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0102_triangles.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\0102_triangles.txt",
+              "RelativeDocumentMoniker": "0102_triangles.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\0102_triangles.txt",
+              "RelativeToolTip": "0102_triangles.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-23T14:56:52.565Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_102___Triangle_Containment.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\Problem_102___Triangle_Containment.py",
+              "RelativeDocumentMoniker": "Problem_102___Triangle_Containment.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 102 - Triangle Containment\\Problem_102___Triangle_Containment.py",
+              "RelativeToolTip": "Problem_102___Triangle_Containment.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-23T14:50:39.61Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

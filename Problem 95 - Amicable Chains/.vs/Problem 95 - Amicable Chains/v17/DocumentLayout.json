@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 95 - Amicable Chains\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEF4E012-A185-44C6-B808-D80FB663CB66}|Problem 95 - Amicable Chains.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 95 - Amicable Chains\\Problem_95___Amicable_Chains.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FEF4E012-A185-44C6-B808-D80FB663CB66}|Problem 95 - Amicable Chains.pyproj|solutionrelative:Problem_95___Amicable_Chains.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_95___Amicable_Chains.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 95 - Amicable Chains\\Problem_95___Amicable_Chains.py",
+              "RelativeDocumentMoniker": "Problem_95___Amicable_Chains.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 95 - Amicable Chains\\Problem_95___Amicable_Chains.py",
+              "RelativeToolTip": "Problem_95___Amicable_Chains.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T13:27:52.1Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

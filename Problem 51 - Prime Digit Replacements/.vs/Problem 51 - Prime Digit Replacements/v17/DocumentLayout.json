@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 51 - Prime Digit Replacements\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3D11FA26-9C3A-492D-A26E-D9A3D76D902D}|Problem 51 - Prime Digit Replacements.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 51 - Prime Digit Replacements\\Problem_51___Prime_Digit_Replacements.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3D11FA26-9C3A-492D-A26E-D9A3D76D902D}|Problem 51 - Prime Digit Replacements.pyproj|solutionrelative:Problem_51___Prime_Digit_Replacements.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_51___Prime_Digit_Replacements.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 51 - Prime Digit Replacements\\Problem_51___Prime_Digit_Replacements.py",
+              "RelativeDocumentMoniker": "Problem_51___Prime_Digit_Replacements.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 51 - Prime Digit Replacements\\Problem_51___Prime_Digit_Replacements.py",
+              "RelativeToolTip": "Problem_51___Prime_Digit_Replacements.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-25T19:36:48.173Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

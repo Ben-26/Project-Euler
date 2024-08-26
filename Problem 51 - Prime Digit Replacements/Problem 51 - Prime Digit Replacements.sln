@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Problem 51 - Prime Digit Replacements", "Problem 51 - Prime Digit Replacements.pyproj", "{3D11FA26-9C3A-492D-A26E-D9A3D76D902D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D11FA26-9C3A-492D-A26E-D9A3D76D902D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D11FA26-9C3A-492D-A26E-D9A3D76D902D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8023C4BB-2003-4063-9FF6-00052ABB959A}
+	EndGlobalSection
+EndGlobal
