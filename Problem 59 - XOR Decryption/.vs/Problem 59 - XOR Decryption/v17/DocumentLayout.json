@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD74DD-3397-4078-84A7-5A1A21FD165F}|Problem 59 - XOR Decryption.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\Problem_59___XOR_Decryption.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97DD74DD-3397-4078-84A7-5A1A21FD165F}|Problem 59 - XOR Decryption.pyproj|solutionrelative:Problem_59___XOR_Decryption.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97DD74DD-3397-4078-84A7-5A1A21FD165F}|Problem 59 - XOR Decryption.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\0059_cipher.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{97DD74DD-3397-4078-84A7-5A1A21FD165F}|Problem 59 - XOR Decryption.pyproj|solutionrelative:0059_cipher.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_59___XOR_Decryption.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\Problem_59___XOR_Decryption.py",
+              "RelativeDocumentMoniker": "Problem_59___XOR_Decryption.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\Problem_59___XOR_Decryption.py",
+              "RelativeToolTip": "Problem_59___XOR_Decryption.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-26T14:57:40.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0059_cipher.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\0059_cipher.txt",
+              "RelativeDocumentMoniker": "0059_cipher.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 59 - XOR Decryption\\0059_cipher.txt",
+              "RelativeToolTip": "0059_cipher.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-08-26T14:58:41.852Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

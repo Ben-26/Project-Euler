@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 104 - Pandigital Fibonacci Ends\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81FA9A89-98A2-44E0-AC4E-EE92B0E9E7DE}|Problem 104 - Pandigital Fibonacci Ends.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 104 - Pandigital Fibonacci Ends\\Problem_104___Pandigital_Fibonacci_Ends.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81FA9A89-98A2-44E0-AC4E-EE92B0E9E7DE}|Problem 104 - Pandigital Fibonacci Ends.pyproj|solutionrelative:Problem_104___Pandigital_Fibonacci_Ends.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_104___Pandigital_Fibonacci_Ends.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 104 - Pandigital Fibonacci Ends\\Problem_104___Pandigital_Fibonacci_Ends.py",
+              "RelativeDocumentMoniker": "Problem_104___Pandigital_Fibonacci_Ends.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 104 - Pandigital Fibonacci Ends\\Problem_104___Pandigital_Fibonacci_Ends.py",
+              "RelativeToolTip": "Problem_104___Pandigital_Fibonacci_Ends.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-29T20:59:21.442Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
