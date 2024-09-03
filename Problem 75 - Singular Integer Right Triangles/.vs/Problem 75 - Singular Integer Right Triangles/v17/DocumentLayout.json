@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 75 - Singular Integer Right Triangles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50E8F5A5-92AF-48EA-82FB-F0B6F7066CBA}|Problem 75 - Singular Integer Right Triangles.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 75 - Singular Integer Right Triangles\\Problem_75___Singular_Integer_Right_Triangles.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{50E8F5A5-92AF-48EA-82FB-F0B6F7066CBA}|Problem 75 - Singular Integer Right Triangles.pyproj|solutionrelative:Problem_75___Singular_Integer_Right_Triangles.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_75___Singular_Integer_Right_Triangles.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 75 - Singular Integer Right Triangles\\Problem_75___Singular_Integer_Right_Triangles.py",
+              "RelativeDocumentMoniker": "Problem_75___Singular_Integer_Right_Triangles.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 75 - Singular Integer Right Triangles\\Problem_75___Singular_Integer_Right_Triangles.py",
+              "RelativeToolTip": "Problem_75___Singular_Integer_Right_Triangles.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T13:07:36.286Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

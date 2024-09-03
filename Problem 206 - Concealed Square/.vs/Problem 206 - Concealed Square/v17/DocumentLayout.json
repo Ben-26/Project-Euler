@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 206 - Concealed Square\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C715A779-8F3C-4AA1-A956-0CBDF6B9DAC8}|Problem 206 - Concealed Square.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 206 - Concealed Square\\Problem_206___Concealed_Square.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C715A779-8F3C-4AA1-A956-0CBDF6B9DAC8}|Problem 206 - Concealed Square.pyproj|solutionrelative:Problem_206___Concealed_Square.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_206___Concealed_Square.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 206 - Concealed Square\\Problem_206___Concealed_Square.py",
+              "RelativeDocumentMoniker": "Problem_206___Concealed_Square.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 206 - Concealed Square\\Problem_206___Concealed_Square.py",
+              "RelativeToolTip": "Problem_206___Concealed_Square.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T02:06:17.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 62 - Cubic Permutations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10931F42-B38F-4586-8667-7F139945A7E1}|Problem 62 - Cubic Permutations.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 62 - Cubic Permutations\\Problem_62___Cubic_Permutations.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{10931F42-B38F-4586-8667-7F139945A7E1}|Problem 62 - Cubic Permutations.pyproj|solutionrelative:Problem_62___Cubic_Permutations.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_62___Cubic_Permutations.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 62 - Cubic Permutations\\Problem_62___Cubic_Permutations.py",
+              "RelativeDocumentMoniker": "Problem_62___Cubic_Permutations.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 62 - Cubic Permutations\\Problem_62___Cubic_Permutations.py",
+              "RelativeToolTip": "Problem_62___Cubic_Permutations.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-31T14:35:24.295Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

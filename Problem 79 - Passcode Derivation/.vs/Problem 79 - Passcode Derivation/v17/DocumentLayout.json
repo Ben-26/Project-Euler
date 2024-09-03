@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3645C792-65E6-47DF-A5F3-F5FACD24FC6E}|Problem 79 - Passcode Derivation.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\Problem_79___Passcode_Derivation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3645C792-65E6-47DF-A5F3-F5FACD24FC6E}|Problem 79 - Passcode Derivation.pyproj|solutionrelative:Problem_79___Passcode_Derivation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3645C792-65E6-47DF-A5F3-F5FACD24FC6E}|Problem 79 - Passcode Derivation.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\0079_keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{3645C792-65E6-47DF-A5F3-F5FACD24FC6E}|Problem 79 - Passcode Derivation.pyproj|solutionrelative:0079_keylog.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0079_keylog.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\0079_keylog.txt",
+              "RelativeDocumentMoniker": "0079_keylog.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\0079_keylog.txt",
+              "RelativeToolTip": "0079_keylog.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-01T16:09:57.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_79___Passcode_Derivation.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\Problem_79___Passcode_Derivation.py",
+              "RelativeDocumentMoniker": "Problem_79___Passcode_Derivation.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 79 - Passcode Derivation\\Problem_79___Passcode_Derivation.py",
+              "RelativeToolTip": "Problem_79___Passcode_Derivation.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-01T16:00:16.732Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
