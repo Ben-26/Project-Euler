@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 85 - Counting Rectangles\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3433ACC-9812-4D7A-90C8-1AAB86F2E059}|Problem 85 - Counting Rectangles.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 85 - Counting Rectangles\\Problem_85___Counting_Rectangles.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C3433ACC-9812-4D7A-90C8-1AAB86F2E059}|Problem 85 - Counting Rectangles.pyproj|solutionrelative:Problem_85___Counting_Rectangles.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_85___Counting_Rectangles.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 85 - Counting Rectangles\\Problem_85___Counting_Rectangles.py",
+              "RelativeDocumentMoniker": "Problem_85___Counting_Rectangles.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 85 - Counting Rectangles\\Problem_85___Counting_Rectangles.py",
+              "RelativeToolTip": "Problem_85___Counting_Rectangles.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-08T01:15:08.685Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

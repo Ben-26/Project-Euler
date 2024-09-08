@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 101 - Optimum Polynomial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{166721A3-600F-4878-82EA-C1E245C17722}|Problem 101 - Optimum Polynomial.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 101 - Optimum Polynomial\\Problem_101___Optimum_Polynomial.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{166721A3-600F-4878-82EA-C1E245C17722}|Problem 101 - Optimum Polynomial.pyproj|solutionrelative:Problem_101___Optimum_Polynomial.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_101___Optimum_Polynomial.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 101 - Optimum Polynomial\\Problem_101___Optimum_Polynomial.py",
+              "RelativeDocumentMoniker": "Problem_101___Optimum_Polynomial.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 101 - Optimum Polynomial\\Problem_101___Optimum_Polynomial.py",
+              "RelativeToolTip": "Problem_101___Optimum_Polynomial.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T13:52:27.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

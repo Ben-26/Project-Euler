@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 122 - Efficient Exponentiation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F94D7947-5D09-4C55-A8D5-ED270E3378A9}|Problem 122 - Efficient Exponentiation.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 122 - Efficient Exponentiation\\Problem_122___Efficient_Exponentiation.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{F94D7947-5D09-4C55-A8D5-ED270E3378A9}|Problem 122 - Efficient Exponentiation.pyproj|solutionrelative:Problem_122___Efficient_Exponentiation.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_122___Efficient_Exponentiation.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 122 - Efficient Exponentiation\\Problem_122___Efficient_Exponentiation.py",
+              "RelativeDocumentMoniker": "Problem_122___Efficient_Exponentiation.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 122 - Efficient Exponentiation\\Problem_122___Efficient_Exponentiation.py",
+              "RelativeToolTip": "Problem_122___Efficient_Exponentiation.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T19:19:05.332Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
