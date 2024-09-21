@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FD679E13-A158-4421-9307-69674D98F904}|Problem 89 - Roman Numerals.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\Problem_89___Roman_Numerals.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD679E13-A158-4421-9307-69674D98F904}|Problem 89 - Roman Numerals.pyproj|solutionrelative:Problem_89___Roman_Numerals.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FD679E13-A158-4421-9307-69674D98F904}|Problem 89 - Roman Numerals.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\0089_roman.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{FD679E13-A158-4421-9307-69674D98F904}|Problem 89 - Roman Numerals.pyproj|solutionrelative:0089_roman.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_89___Roman_Numerals.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\Problem_89___Roman_Numerals.py",
+              "RelativeDocumentMoniker": "Problem_89___Roman_Numerals.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\Problem_89___Roman_Numerals.py",
+              "RelativeToolTip": "Problem_89___Roman_Numerals.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-17T20:01:02.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0089_roman.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\0089_roman.txt",
+              "RelativeDocumentMoniker": "0089_roman.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 89 - Roman Numerals\\0089_roman.txt",
+              "RelativeToolTip": "0089_roman.txt",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-17T20:02:28.309Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

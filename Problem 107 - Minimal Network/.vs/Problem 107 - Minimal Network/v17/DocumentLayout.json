@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5195DAB4-14F4-416F-9A2E-3EC2FB921510}|Problem 107 - Minimal Network.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\Problem_107___Minimal_Network.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5195DAB4-14F4-416F-9A2E-3EC2FB921510}|Problem 107 - Minimal Network.pyproj|solutionrelative:Problem_107___Minimal_Network.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5195DAB4-14F4-416F-9A2E-3EC2FB921510}|Problem 107 - Minimal Network.pyproj|C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\0107_network.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5195DAB4-14F4-416F-9A2E-3EC2FB921510}|Problem 107 - Minimal Network.pyproj|solutionrelative:0107_network.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 373,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "0107_network.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\0107_network.txt",
+              "RelativeDocumentMoniker": "0107_network.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\0107_network.txt",
+              "RelativeToolTip": "0107_network.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-13T16:02:28.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Problem_107___Minimal_Network.py",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\Problem_107___Minimal_Network.py",
+              "RelativeDocumentMoniker": "Problem_107___Minimal_Network.py",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 107 - Minimal Network\\Problem_107___Minimal_Network.py",
+              "RelativeToolTip": "Problem_107___Minimal_Network.py",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-13T15:54:01.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -18,21 +18,8 @@
       "DocumentGroups": [
         {
           "DockedHeight": 373,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "analysis.txt",
-              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
-              "RelativeDocumentMoniker": "analysis.txt",
-              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
-              "RelativeToolTip": "analysis.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAA8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-07-28T14:35:54.224Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -41,9 +28,22 @@
               "RelativeDocumentMoniker": "Problem_103___Special_Subset_Sums_Optimum.py",
               "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\Problem_103___Special_Subset_Sums_Optimum.py",
               "RelativeToolTip": "Problem_103___Special_Subset_Sums_Optimum.py",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
               "WhenOpened": "2024-07-27T13:01:40.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "analysis.txt",
+              "DocumentMoniker": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
+              "RelativeDocumentMoniker": "analysis.txt",
+              "ToolTip": "C:\\Users\\benlm\\Documents\\Project Euler\\Problem 103 - Special Subset Sums Optimum\\analysis.txt",
+              "RelativeToolTip": "analysis.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-07-28T14:35:54.224Z",
               "EditorCaption": ""
             }
           ]
